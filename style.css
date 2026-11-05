@@ -173,11 +173,10 @@ h3{
     gap: 20px;
     border: 2px solid #FF6B8B;
     padding: 16px 28px;
-    margin: 0 8px;
+    margin: 35px 0 8px;
     border-radius: 30px;
     font-weight: bold;
     transition: background-color 0.3s, color 0.3s, transform 0.2s;;
-    margin: 8px;
 }
 .no{
     background-color: #fff;
@@ -202,7 +201,7 @@ h3{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     max-width: 600px;
-    margin: auto;
+    margin: 35px auto;
     gap: 24px;
 }
 .plans li{
